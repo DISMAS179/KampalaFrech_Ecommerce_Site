@@ -1,0 +1,6 @@
+{
+  "name": "Kampala Fresh - Online Grocery Delivery",
+  "description": "Mobile-first online grocery delivering fresh farm produce, fruits, vegetables, staples, dairy and meat across Kampala, Uganda with MTN MoMo, Airtel Money, and cash on delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
